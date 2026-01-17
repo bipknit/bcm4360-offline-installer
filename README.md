@@ -6,7 +6,11 @@ Instructions
 ### Clone this repository
 ### Reassemble the parts.
 ```bash
-cat pkgs_partaa pkgs_partab | tar -xzf -
+cat pkgs_part* > pkgs.tar
+```
+### Extract it
+```bash
+tar -xf pkgs.tar
 ```
 ### place the installer.sh in the same directory as the pkgs folder
 ### give execute permission
