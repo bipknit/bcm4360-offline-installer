@@ -1,5 +1,6 @@
 # bcm4360-offline-installer
 An installer to get that damn bcm4360 working
+
 All of the rpm files were downloaded from pkgs.org
 
 This install script is working and tested on x86_64 fedora 43 KDE
