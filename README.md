@@ -6,7 +6,7 @@ Instructions
 ### Clone this repository
 ### Reassemble the parts.
 ```bash
-cat pkgs_partA pkgs_partB | tar -xzf -
+cat pkgs_partaa pkgs_partab | tar -xzf -
 ```
 ### place the installer.sh in the same directory as the pkgs folder
 ### give execute permission
